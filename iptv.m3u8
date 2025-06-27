@@ -1,0 +1,91 @@
+#EXTINF:-1 group-title="siaranMy" tvg-id="001" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/main/TV1.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="001" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/TV2.png",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="003"  tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/TV3.png",TV3
+https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="004" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/TV6.png",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="005" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/TV8.png",8TV
+https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="006" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/TV%209.png",TV9
+https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="007" tvg-name="Okey TV" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Okey%20TV.png",Okey Tv
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="008" tvg-name="RTM ASEAN" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/RTM%20ASEAN.png",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="009" tvg-name="DidikTv KPM" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/DIDIK%20TV%20KPM.png",DidikTv KPM
+https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a029c72673202bd4846
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="010" tvg-name="BERITA RTM" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Berita%20RTM.png",BERITA RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="011" tvg-name="SUKAN RTM" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Sukan%20RTM.png",SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="012" tvg-name="BernamaTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png", BERNAMA
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="013" tvg-number="117" tvg-name="TV Ikim" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
+#http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="014" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Awani.png", Astro Awani
+https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="015" tvg-name="DuniaSinema" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Dunia%20Sinema.png", Dunia Sinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="016" tvg-name="AL-Jazeera TV" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/AL-Jazeera%20TV.png",AL-Jazeera TV
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8 
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="017" tvg-name="Peace TV" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Peace%20TV.png",Peace TV
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="018" tvg-name="TV Alhijrah" tvg-logo="", TV Alhijrah
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="020" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Cartoon%20Network.png",CartoonNetwork
+https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="021" tvg-name="Horizon Sports" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Horizon%20Sports.png",Horizon Sports
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="022" tvg-name="MotorRacing TV" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/MotorRacing%20TV.png",MotorRacing TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="023" tvg-name="ESPN U" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/ESPN%20U.png",ESPN U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="024" tvg-name="ESPNews" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/ESPNews.png",ESPNews
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="025" tvg-name="RealMadrid TV" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/RealMadrid%20TV.png",RealMadrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="026" tvg-name="RedBull TV" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/RedBull%20TV.png",RedBull TV
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="027" tvg-name="MU TV" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/MUTV.png",MUTV (720p)
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+####################### BROKEN CHANNEL #######################
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="028" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
+#https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="019" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
+#https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+
+####################### TESTING CHANNEL #######################
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="000" tvg-name="Test TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",Test TV
+#https://bandookk.ydns.eu:80/playlist/Xare2xZmg8/Ps3GmeZDkT/m3u_plus
