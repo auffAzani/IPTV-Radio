@@ -77,19 +77,19 @@ https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 group-title="siaranMy" tvg-id="027" tvg-name="MU TV" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/MUTV.png",MUTV (720p)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="028" tvg-name="Astro Arena" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/MUTV.png",Astro Arena
+#EXTINF:-1 group-title="siaranMy" tvg-id="028" tvg-name="Astro Arena" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Arena.png",Astro Arena
 https://ott.udptv.xyz/stream/astro/astroarena/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="029" tvg-name="Astro Sports Plus" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/MUTV.png",Astro Sports Plus
+#EXTINF:-1 group-title="siaranMy" tvg-id="029" tvg-name="Astro Sports Plus" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Sport%20Plus.png",Astro Sports Plus
 https://ott.udptv.xyz/stream/astro/astrosportsplus/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="030" tvg-name="Unifi Sports 1" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/MUTV.png",Unifi Sports 1
+#EXTINF:-1 group-title="siaranMy" tvg-id="030" tvg-name="Unifi Sports 1" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Unifi%20Sports.png",Unifi Sports 1
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="031" tvg-name="Astro Golf" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/MUTV.png",Astro Golf
+#EXTINF:-1 group-title="siaranMy" tvg-id="031" tvg-name="Astro Golf" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Golf.png",Astro Golf
 https://ott.udptv.xyz/stream/astro/golfchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="032" tvg-name="Astro Showcase" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/MUTV.png",Astro Showcase
+#EXTINF:-1 group-title="siaranMy" tvg-id="032" tvg-name="Astro Showcase" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Showcase.png",Astro Showcase
 https://ott.udptv.xyz/stream/astro/showcasemovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 
