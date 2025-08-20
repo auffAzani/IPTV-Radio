@@ -92,6 +92,49 @@ https://ott.udptv.xyz/stream/astro/golfchannel/master.m3u8?u=cocked&p=dd0abb5272
 #EXTINF:-1 group-title="siaranMy" tvg-id="032" tvg-name="Astro Showcase" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Showcase.png",Astro Showcase
 https://ott.udptv.xyz/stream/astro/showcasemovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
+########################
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="033" tvg-name="Astro Football" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Showcase.png",Astro Football
+https://ott.udptv.xyz/stream/astro/astrofootball/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="034" tvg-name="Astro Premier Sports" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Showcase.png",Astro Premier Sports
+https://ott.udptv.xyz/stream/astro/premiersports/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="035" tvg-name="Astro Sports Plus" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Showcase.png",Astro Sports Plus
+https://ott.udptv.xyz/stream/astro/astrosportsplus/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="036" tvg-name="Euro Sport 1" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Showcase.png",Euro Sport 1
+https://ott.udptv.xyz/stream/udptv/eurosport1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="037" tvg-name="Euro Sport 2" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Showcase.png",Euro Sport 2
+https://ott.udptv.xyz/stream/udptv/eurosport2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="038" tvg-name="Bien sport 3" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Showcase.png",Bien sport 3
+https://ott.udptv.xyz/stream/astro/beinsports3/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="039" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Showcase.png",NBA TV
+https://fl3.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="040" tvg-name="TAP Sports" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Showcase.png",TAP Sports
+https://ott.udptv.xyz/stream/nbc/syfyeast/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="041" tvg-name="Astro Badminton" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Showcase.png",Astro Badminton
+https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroBadmintonB.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="042" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Showcase.png",AXN
+https://ott.udptv.xyz/stream/astro/axn/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="043" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Showcase.png",Animal Planet
+https://ott.udptv.xyz/stream/astro/animalplanet/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="044" tvg-name="Nick Junior" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Showcase.png",Nick Junior
+https://ott.udptv.xyz/stream/astro/nickjunior/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="045" tvg-name="Cartoon Network China" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Showcase.png",Cartoon Network China
+https://ott.udptv.xyz/stream/astro/astrocartoonnetwork/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="046" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/auffAzani/IPTV-Radio/refs/heads/main/Astro%20Showcase.png",CGTN
+https://ott.udptv.xyz/stream/astro/cgtn/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 ####################### BROKEN CHANNEL #######################
 
