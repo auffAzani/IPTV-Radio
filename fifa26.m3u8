@@ -1,2 +1,11 @@
 #EXTINF:-1 group-title="siaranMy" tvg-id="001" tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/1280px-Sukan_RTM_1_April.png",OKEY TV
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="002" tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/1280px-Sukan_RTM_1_April.png",SUKAN+
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="002" tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/1280px-Sukan_RTM_1_April.png",SUKAN+
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/HLS/sukan-mp4a_128000_eng=4263252627.m3u8
+
+#EXTINF:-1 group-title="siaranMy" tvg-id="002" tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/1280px-Sukan_RTM_1_April.png",SUKAN+
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
